@@ -1,0 +1,13 @@
+D:\Code\AzureTest\MQServer\bin\Debug\netcoreapp3.1\MQServer.exe
+D:\Code\AzureTest\MQServer\obj\Debug\netcoreapp3.1\MQServer.AssemblyInfoInputs.cache
+D:\Code\AzureTest\MQServer\obj\Debug\netcoreapp3.1\MQServer.AssemblyInfo.cs
+D:\Code\AzureTest\MQServer\bin\Debug\netcoreapp3.1\MQServer.deps.json
+D:\Code\AzureTest\MQServer\bin\Debug\netcoreapp3.1\MQServer.runtimeconfig.json
+D:\Code\AzureTest\MQServer\bin\Debug\netcoreapp3.1\MQServer.runtimeconfig.dev.json
+D:\Code\AzureTest\MQServer\bin\Debug\netcoreapp3.1\MQServer.dll
+D:\Code\AzureTest\MQServer\bin\Debug\netcoreapp3.1\MQServer.pdb
+D:\Code\AzureTest\MQServer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Code\AzureTest\MQServer\obj\Debug\netcoreapp3.1\MQServer.csprojAssemblyReference.cache
+D:\Code\AzureTest\MQServer\obj\Debug\netcoreapp3.1\MQServer.csproj.CopyComplete
+D:\Code\AzureTest\MQServer\obj\Debug\netcoreapp3.1\MQServer.dll
+D:\Code\AzureTest\MQServer\obj\Debug\netcoreapp3.1\MQServer.pdb

@@ -1,0 +1,13 @@
+D:\Code\AzureTest\PollyConsole\bin\Debug\netcoreapp3.1\PollyConsole.exe
+D:\Code\AzureTest\PollyConsole\obj\Debug\netcoreapp3.1\PollyConsole.AssemblyInfoInputs.cache
+D:\Code\AzureTest\PollyConsole\obj\Debug\netcoreapp3.1\PollyConsole.AssemblyInfo.cs
+D:\Code\AzureTest\PollyConsole\bin\Debug\netcoreapp3.1\PollyConsole.deps.json
+D:\Code\AzureTest\PollyConsole\bin\Debug\netcoreapp3.1\PollyConsole.runtimeconfig.json
+D:\Code\AzureTest\PollyConsole\bin\Debug\netcoreapp3.1\PollyConsole.runtimeconfig.dev.json
+D:\Code\AzureTest\PollyConsole\bin\Debug\netcoreapp3.1\PollyConsole.dll
+D:\Code\AzureTest\PollyConsole\bin\Debug\netcoreapp3.1\PollyConsole.pdb
+D:\Code\AzureTest\PollyConsole\bin\Debug\netcoreapp3.1\Polly.dll
+D:\Code\AzureTest\PollyConsole\obj\Debug\netcoreapp3.1\PollyConsole.csproj.CopyComplete
+D:\Code\AzureTest\PollyConsole\obj\Debug\netcoreapp3.1\PollyConsole.dll
+D:\Code\AzureTest\PollyConsole\obj\Debug\netcoreapp3.1\PollyConsole.pdb
+D:\Code\AzureTest\PollyConsole\obj\Debug\netcoreapp3.1\PollyConsole.csprojAssemblyReference.cache

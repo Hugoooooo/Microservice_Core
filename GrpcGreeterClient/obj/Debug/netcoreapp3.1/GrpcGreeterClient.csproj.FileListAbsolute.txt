@@ -1,0 +1,17 @@
+D:\Code\AzureTest\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.exe
+D:\Code\AzureTest\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.AssemblyInfoInputs.cache
+D:\Code\AzureTest\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.AssemblyInfo.cs
+D:\Code\AzureTest\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.deps.json
+D:\Code\AzureTest\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.runtimeconfig.json
+D:\Code\AzureTest\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.runtimeconfig.dev.json
+D:\Code\AzureTest\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.dll
+D:\Code\AzureTest\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.pdb
+D:\Code\AzureTest\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Code\AzureTest\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\Code\AzureTest\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\Code\AzureTest\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\AzureTest\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.csproj.CopyComplete
+D:\Code\AzureTest\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.dll
+D:\Code\AzureTest\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.pdb
+D:\Code\AzureTest\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.csprojAssemblyReference.cache
+D:\Code\AzureTest\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
